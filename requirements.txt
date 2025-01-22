@@ -1,0 +1,10 @@
+pytesseract
+pdf2image
+spacy
+nltk
+Pillow
+gTTS
+tabula-py
+transformers
+googletrans==4.0.0-rc1
+torch
